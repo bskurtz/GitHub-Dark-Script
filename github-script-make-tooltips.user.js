@@ -9,8 +9,8 @@
 // @run-at      document-idle
 // @grant       GM_addStyle
 // @icon        https://avatars3.githubusercontent.com/u/6145677?v=3&s=200
-// @updateURL   https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-script-make-tooltips.user.js
-// @downloadURL https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-script-make-tooltips.user.js
+// @updateURL   https://raw.githubusercontent.com/bskurtz/GitHub-Dark-Script/master/github-script-make-tooltips.user.js
+// @downloadURL https://raw.githubusercontent.com/bskurtz/GitHub-Dark-Script/master/github-script-make-tooltips.user.js
 // ==/UserScript==
 /* jshint esnext:true, unused:true */
 (() => {
