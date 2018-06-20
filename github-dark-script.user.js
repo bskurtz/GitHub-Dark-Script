@@ -28,8 +28,8 @@
 // @require     https://greasyfork.org/scripts/15563-jscolor/code/jscolor.js?version=106439
 // @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=264157
 // @icon        https://avatars3.githubusercontent.com/u/6145677?v=3&s=200
-// @updateURL   https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-dark-script.user.js
-// @downloadURL https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-dark-script.user.js
+// @updateURL   https://raw.githubusercontent.com/bskurtz/GitHub-Dark-Script/master/github-dark-script.user.js
+// @downloadURL https://raw.githubusercontent.com/bskurtz/GitHub-Dark-Script/master/github-dark-script.user.js
 // ==/UserScript==
 /* global GM, jscolor */
 /* jshint esnext:true, unused:true */
@@ -48,7 +48,7 @@
     keyboardDelay = 1000,
 
     // base urls to fetch style and package.json
-    root = "https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/",
+    root = "https://raw.githubusercontent.com/bskurtz/GitHub-Dark/master/",
 
     defaults = {
       attach : "scroll",
